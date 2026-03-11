@@ -1,7 +1,6 @@
 <!-- HERO SECTION -->
 # 👋 Hi, I'm **Maria Jessington**
-#### B.Tech (Final Year) | Artificial Intelligence & Machine Learning Enthusiast  
-_Sathyamangalam | Independent Developer_
+#### B.Tech (Final Year) | Artificial Intelligence & Machine Learning
 
 Welcome to my GitHub! I turn data into insights, and curiosity into code.
 
@@ -22,7 +21,6 @@ As a final-year B.Tech student specializing in Artificial Intelligence and Machi
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
 
 _Exploring Machine Learning, Data Analysis, and Web Technologies_
 
